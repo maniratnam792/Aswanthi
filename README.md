@@ -57,4 +57,10 @@ Transform your ideas into custom Lightning apps that extend CRM workflows direct
 - [Salesforce VS Code Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
 
 
+<<<<<<< HEAD
 created brnaches
+=======
+created branches
+
+created branches
+>>>>>>> QA
