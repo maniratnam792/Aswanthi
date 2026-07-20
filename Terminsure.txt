@@ -1,7 +1,6 @@
 created a new folder using main branch
 
-<<<<<<< HEAD
 reffered by me
-=======
+
 searching for the best doctor
 
