@@ -1,3 +1,7 @@
 created a new folder using main branch
 
+<<<<<<< HEAD
 reffered by me
+=======
+searching for the best doctor
+>>>>>>> 91e92c4f489d306b853e94a7ecd0a65370673afc
